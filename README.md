@@ -1,6 +1,6 @@
 # RL_ControlPurposes
 The projects will use Reinforcement Learning for control purposes
 
-#Update
+# Update
 I want to create here the gym environment and from github get the libraries from gym
 and run it in tensor flow
