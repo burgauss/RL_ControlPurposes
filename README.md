@@ -7,3 +7,6 @@ and run it in tensor flow
 
 # Change
 Here we change in the remote github
+
+# Change 2
+This was a local change
